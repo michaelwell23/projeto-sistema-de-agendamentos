@@ -9,11 +9,11 @@
 ---
 Antes de clonar o projeto é bom ter em mente que algumas configurações são necessárias:
 
-* Você precisa configurar os bancos de dados utilizados na aplicação, você pode escolher o de sua preferecia desde que esteja configurado no arquivo `.env.exemple`
+* 1. Você precisa configurar os bancos de dados utilizados na aplicação, você pode escolher o de sua preferecia desde que esteja configurado no arquivo `.env.exemple`
 
-* É necessário a configuração do nodemailer, ele que faz a configuração de envio de email.
+* 2. É necessário a configuração do nodemailer, ele que faz a configuração de envio de email.
 
-* Para ambiente de desenvolvimento é necessário configurar o Sentry.
+* 3. Para ambiente de desenvolvimento é necessário configurar o Sentry.
 
 Após a configuração, você pode renomear o arquivo para somente `.env`.
 

@@ -1,0 +1,24 @@
+1 - Padronização de código
+2 - Root import
+3 - Rotas e navegação
+4 - Background
+5 - Input e Button
+6 - Página de SignIn
+7 - Página de SignUp
+8 - Configurando StatusBar
+9 - Dicas de acessibilidade
+10 - Reactotron
+11 - Configurando o Redux
+12 - Conectando o Redux
+13 - Rota inicial
+14 - Estilização das rotas
+15 - Lista de agendamentos
+16 - Agendamentos da API
+17 - Atualização de perfil
+18 - Logout
+19 - Rotas de agendamento
+20 - DatePicker por plataforma
+21 - Selecionando horário
+22 - Confirmando agendamento
+23 - Load de agendamentos
+24 - (bug de carregamento dos avatares dos providers)
