@@ -1,23 +1,19 @@
 <h1 align="center">
-    <img alt="Imagem" src=".github/logo.png" width="900px" />
+  <img alt="haitatsu" title="Haitatsu" src="./server/.github/img.png" width="800px" />
 </h1>
 
-<h1 align="center"> 
-  QuickWash - Lava Rápido
-</h1>
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/michaelwell23/haitatsu?color=%2304D361">
 
-<h3 align="center">
-#Node #Express #Postgres #JsonWebToken #React #Redux #ConsumoDeAPI #MVC #Docker
-</h3>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
-## Sobre a Aplicação
-QuickWash é um sistema de agendamento para lavagem de veiculos. Nessa aplicação o usuário consegue ter acesso a todos os prostadores de serviços cadastrados através de um aplicativo mobile, com isso usuário consegue escolher um prestador para marcar seu agendamento para a lavagem do seu veiculo.
-
-Já o prestador de serviço, através de um interface Web, consegue ter acesso a sua agenda do dia, podendo visualizar todos os horários agendados e disponíveis.
+  <a href="https://github.com/michaelwell23/haitatsu/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/michaelwell23/haitatsu?style=social">
+  </a>
+</p>
 
 ---
-
-## Tecnologias Utilizadas 
+## Tecnologias utilizadas
 
 ### Backend
 * Express  
@@ -37,7 +33,43 @@ Já o prestador de serviço, através de um interface Web, consegue ter acesso a
 * Consumo de API
 * Styled-components
 
-### Instalando a Aplicação [Node]("");
+<p align="center">
+  <a href="https://github.com/michaelwell23/projeto-servico-de-entregas/tree/master/server"><img src="./server/.github/nodejs.svg" alt="Node.Js" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href=""><img src="./server/.github/reactjs.svg" alt="ReactJS">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href=""><img src="./server/.github/reactnative.svg" alt="React Native"/>
+  </a>
+</p>
+
+## SOBRE O PROJETO
+EstetCar é uma empresa de estéctica de carros fictícia, que utiliza um sistema para que o seus clientes possam fazer os agendamentos para utilizar dos serviços da compania. O sistema é bem simples que contem um servidor NodeJS, uma aplicação Web para que os prestadores de serviços passam vizualizar os seus agendamentos e os horários disponíveis e uma aplicação Mobile, onde o cliente pode fazer o seu agendamento. Para mais infomações de código, click no icone acima.
+
+---
+
+## CONTRIBUA
+
+* Para contribuir faça um fork no projeto e siga as intruções abaixo:
+```
+# Instale o GitHub CLI ou a págian do GitHub
+$ gh repo fork https://github.com/michaelwell23/projeto-sistema-de-agendamentos
+
+# Clone o seu fork
+$ git clone link-do-seu-fork
+
+# Entre na pasta clonada
+cd projeto-servico-de-entregas
+
+# Crie uma branch para sua feature
+$ git checkout -b sua-feature
+
+# Commite suas alterações
+$ git commit -m "feature: Minha feature"
+
+# Faça o push para a sua branch
+$ git push origin sua-feature
+
+```
 
 ---
 
