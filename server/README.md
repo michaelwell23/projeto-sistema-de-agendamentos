@@ -3,6 +3,8 @@
 </h1>
 
 <p align="center">
+    EstetCar - Sistema de agendamento
+  <br />  <br />  <br />
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/michaelwell23/Haitatsu?color=%2304D361">
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
@@ -18,7 +20,7 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-Backend do app Haitatsu, desenvolvido com  Node e [Express](https://github.com/expressjs/express), nos padrões REST API.
+Backend do app EstetCar, desenvolvido com  Node e [Express](https://github.com/expressjs/express), nos padrões REST API.
 
 ---
 
