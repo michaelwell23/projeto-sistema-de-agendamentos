@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="logo" title="logo" src="./.github/logo.png" width="300px" />
+  <img alt="logo" title="logo" src="https://raw.githubusercontent.com/michaelwell23/projeto-sistema-de-agendamentos/master/server/.github/logo.png" width="300px" />
 </h1>
 
 <p align="center">
